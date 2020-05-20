@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Tester\ class\r\n\r\n\ @author\ Jonah\ Broyer\r\n\ @version\ 05/19/2020\r\n\ \r\n\ Starting\ with\ positive\ 15,\ divide\ 15\ by\ 2\ and\ write\ its\ remainders\ in\ reverse.\r\n\ 0000\ 1111\ (8-bit)\r\n\ \r\n\ To\ make\ 15\ negative,\ flip\ the\ bits\ and\ add\ a\ 1.\r\n\ \r\n\ So,\ 1111\ 0001\ is\ -15\ in\ two's\ complement\ with\ 8\ bits.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=shapes\ type
+comment2.target=void\ filterPrint(java.util.List,\ java.lang.String)
+comment2.text=\r\n\ Print\ only\ one\ type\ of\ shape.\r\n
+numComments=3

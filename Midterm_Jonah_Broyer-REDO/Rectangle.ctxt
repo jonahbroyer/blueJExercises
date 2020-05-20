@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ Class\ Rectangle\ creates\ and\ draws\ rectangles.\r\n\r\n\ @author\ Jonah\ Broyer\r\n\ @version\ 05/19/2020\r\n
+comment1.params=length\ width
+comment1.target=Rectangle(double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rectangle\r\n
+comment2.params=
+comment2.target=double\ getLength()
+comment2.text=\r\n\ Get\ the\ length\ of\ a\ Rectangle.\r\n
+comment3.params=
+comment3.target=double\ getWidth()
+comment3.text=\r\n\ Get\ the\ width\ of\ a\ Rectangle.\r\n
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=\r\n\ Draw\ a\ rectangle.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ toString\ method.\r\n
+numComments=6

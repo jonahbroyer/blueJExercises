@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\r\n\ Class\ Square\ creates\ and\ draws\ squares.\r\n\r\n\ @author\ Jonah\ Broyer\r\n\ @version\ 05/19/2020\r\n
+comment1.params=length
+comment1.target=Square(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Square\r\n
+comment2.params=
+comment2.target=double\ getLength()
+comment2.text=\r\n\ Get\ the\ length\ of\ a\ Square.\r\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\r\n\ Draw\ a\ square.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ toString\ method.\r\n
+numComments=5
